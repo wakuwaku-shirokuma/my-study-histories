@@ -1,5 +1,5 @@
 
-# my-sudy-histories
+# my-study-histories
 自分ができることをvue.jsでランディングページ風に表現してみました。
 
 > vue landing-page
