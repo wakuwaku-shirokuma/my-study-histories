@@ -2,6 +2,11 @@
 # my-study-histories
 自分ができることをvue.jsでランディングページ風に表現してみました。
 
+（参考にしたページ）
+https://stitches.hyperyolo.com/
+
+LPのデザイン＆コーディングを自動でしてくれるページです。
+
 > vue landing-page
 
 ## Build Setup
