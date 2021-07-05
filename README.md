@@ -7,6 +7,12 @@ https://stitches.hyperyolo.com/
 
 LPのデザイン＆コーディングを自動でしてくれるページです。
 
+（参考にしたいページ）
+https://coco-factory.jp/ugokuweb/
+
+javascriptのアニメーションはなかなかまとまっているものが
+なかっただけに、こういう本があるとありがたいですよね。
+
 > vue landing-page
 
 ## Build Setup
